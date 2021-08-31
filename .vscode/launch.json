@@ -1,0 +1,15 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dart_code_getter",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--uri", "http://127.0.0.1:40085/PhFFC1mF9-8=", "--package", "package:", "--output", "output"],
+            "program": "${cwd}/bin/dart_code_getter.dart",
+        }
+    ]
+}
